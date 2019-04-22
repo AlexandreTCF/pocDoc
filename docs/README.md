@@ -13,3 +13,5 @@ to install you just need to go :
 ````sh
 yarn add ramde-extra
 ````
+
+thanks to download :)
