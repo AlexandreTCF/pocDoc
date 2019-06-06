@@ -2,6 +2,7 @@
   "name": "pocDoc",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "yolo",
   "repository": "https://github.com/AlexandreTCF/pocDoc.git",
   "author": "Alexandre CONTASSOT <alexandre.contassot@thechatbotfactory.com>",
   "license": "MIT",
